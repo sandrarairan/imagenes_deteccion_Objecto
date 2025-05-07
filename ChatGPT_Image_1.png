@@ -1,0 +1,1 @@
+${await window.fs.readFile('/Users/sanrapi/Downloads/imagen_paradetectar/ChatGPT Image 6 may 2025, 05_14_55 p.m..png', {encoding: 'base64'})}
